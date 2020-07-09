@@ -1,0 +1,36 @@
+{
+  "_from": "github:lukouko/angular-indexedDb",
+  "_id": "angular-indexed-db@1.2.9",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/angular-indexed-db",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "angular-indexed-db@github:lukouko/angular-indexedDb",
+    "name": "angular-indexed-db",
+    "escapedName": "angular-indexed-db",
+    "rawSpec": "github:lukouko/angular-indexedDb",
+    "saveSpec": "github:lukouko/angular-indexedDb",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:lukouko/angular-indexedDb#76d10987f128ff870f87590aebdcc8e6660c0428",
+  "_spec": "angular-indexed-db@github:lukouko/angular-indexedDb",
+  "_where": "/usr/src/app",
+  "bundleDependencies": false,
+  "dependencies": {
+    "angular": "~1.5.0",
+    "indexeddbshim": "2.2.1"
+  },
+  "deprecated": false,
+  "description": "angular-indexed-db =================",
+  "devDependencies": {},
+  "main": "angular-indexed-db.js",
+  "name": "angular-indexed-db",
+  "scripts": {},
+  "version": "1.2.9"
+}
